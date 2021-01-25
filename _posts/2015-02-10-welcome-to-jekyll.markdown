@@ -36,3 +36,4 @@ $$
 
 Inline Mathjax $a \neq b$
 
+![](../images/test1.jpg)
