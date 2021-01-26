@@ -4,7 +4,7 @@ title: Pandas学习笔记
 date: 2021-01-26 10:53
 category: Data Mining
 author: 
-tags: Data Mining pandas
+tags: 'Data Mining' 'pandas'
 summary: 
 ---
 
