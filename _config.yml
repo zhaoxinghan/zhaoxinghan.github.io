@@ -54,8 +54,6 @@ kramdown:
 category_dir: category/
 tag_dir: tag/
 
-mermaid: true
-
 # excerpt
 excerpt_separator: "\n\n\n\n"
 
