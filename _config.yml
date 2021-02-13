@@ -46,6 +46,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+mermaid_enable: true
+
 # port
 # port: 1234
 
