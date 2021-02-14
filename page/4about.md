@@ -18,13 +18,14 @@ type: page
 * 2004年9月入职中国电科27所，从事C++软件开发工作
 * 2009年受聘电科27所基础技术事业部计算机软件室主任，组建27所软件测试团队
 * 2013年7月进入郑州大学商学院进行MBA专业学习
-* 2019年9月公派进入美国德州大学访学一年
+* 2016年1月获得MBA学位
+* 2019年9月公派进入美国德州大学达拉斯分校（UTD）计算机科学学院访学一年
 
 ## 联系我
 
 
 * GitHub：[zhaoxinghan](https://github.com/zhaoxinghan)
-* email：zhaoxinghan126@126.com
+* email：zhaoxinghan@126.com
 
 ## 关于本站
 
